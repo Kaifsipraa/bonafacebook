@@ -1,8 +1,8 @@
-# AKING PAID TOLLS
+# BONAVENTURE PAID TOLLS
 
-AKING PAID TOLL
+BONA PAID TOLL
 
-[✓] PAID TOLLS 350
+[✓] PAID TOLLS $50
 [✓] FIRST GIVE APPROVE
 
 pkg update
@@ -19,10 +19,10 @@ pip inatall requests
 
 pip inatall Mechanize
 
-rm -rf AKING
+rm -rf bonafacebook
 
-git clone https://github.com/AKING110/AKING
+git clone https://github.com/kaifsipraa/bonafacebook
 
-cd AKING
+cd bonafacebook
 
 python Brand.py
